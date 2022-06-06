@@ -2,4 +2,4 @@
 
 👩‍💻 Useful resources
 
-(Documentation)[https://documentation.poap.tech/]
+[Documentation](https://documentation.poap.tech/)
