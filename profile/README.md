@@ -4,7 +4,7 @@
 
 [Documentation](https://documentation.poap.tech/)
 
-## OUR GitPOAPS
+## Our GitPOAPS
 <p>
   <a href="https://www.gitpoap.io/gp/49">
     <img src="https://assets.poap.xyz/gitpoap-2022-poapgallery-contributor-2022-logo-1649268307923.png"  alt="poap" height="150" width="150">
